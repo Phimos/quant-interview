@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Obtuse Triangle in a Circle](README.md)
+* [README](README.md)
+* [Obtuse Triangle in a Circle](<README (1).md>)
 * [Obtuse Triangle in a Ball](obtuse-triangle-in-a-ball.md)
 * [Borken Calculator](borken-calculator.md)
 * [Ans for Food](ans-for-food.md)
