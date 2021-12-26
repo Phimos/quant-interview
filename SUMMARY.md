@@ -10,3 +10,4 @@
 * [x^x^x^...](x-x-x-....md)
 * [Symmetric Latin Square](symmetric-latin-square.md)
 * [Modified Broken Stick Problem](modified-broken-stick-problem.md)
+* [Uniform Random Graph](uniform-random-graph.md)
