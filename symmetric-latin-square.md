@@ -21,3 +21,8 @@ Number of $$n\times n$$symmetric matrices each of whose rows is a permutation of
 
 Until now no explicit formula has been found. Maybe using code for enumeration is a good way.
 
+```cpp
+#include<iostream>
+using namespace std;
+
+```

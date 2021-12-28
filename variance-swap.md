@@ -1,5 +1,7 @@
 # Variance Swap
 
+### Description
+
 The price of an asset $$S_t$$ is known to obey the following process
 
 $$
